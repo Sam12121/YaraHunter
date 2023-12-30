@@ -1,0 +1,4 @@
+[submodule "agent-plugins-grpc"]
+	path = agent-plugins-grpc
+	url = https://github.com/Sam12121/agent-plugins-grpc.git
+	branch = main
